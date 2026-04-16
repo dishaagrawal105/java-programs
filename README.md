@@ -1,2 +1,8 @@
-# java-programs
-Java programs for practice
+# Java Programs
+
+This repository contains basic Java programs.
+
+## Topics
+- Loops
+- Arrays
+- Functions
